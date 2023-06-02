@@ -19,3 +19,8 @@ Special Features:
 2. Rather than simply taking the number of fluid ounces for a drink,
 the waiter calculates an accurate number of cups needed. :)
 3. The waiter allows for another consideration if a type of cake is not available.
+4. If an inaccurate choice is made, the waiter will happily serve their recommended item.
+5. Some people may want their sandwich bread-only.
+6. In some other cases, the waiter may add every component to the sandwich. :P
+7. Milk tea is intentionally made the most expensive item, because boba is expensive
+in real life.
