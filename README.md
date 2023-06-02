@@ -9,3 +9,13 @@ regarding order accommodations (depending on Food type: Drink, Sandwich, Cake). 
 further customer input, the cost of the order changes. By the end, there is a random 
 event that prints whether or not the waiter drops the customer's order. If it dropped, 
 the customer is compensated. Otherwise, the bill is printed out.
+
+How to Begin:
+Click "Run" or a green pointing-right arrow. 
+Then, follow the prompts and type when told.
+
+Special Features:
+1. Japanese emoticons are included with a few printed messages. ٩(＾◡＾)۶
+2. Rather than simply taking the number of fluid ounces for a drink,
+the waiter calculates an accurate number of cups needed. :)
+3. The waiter allows for another consideration if a type of cake is not available.
